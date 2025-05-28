@@ -31,9 +31,9 @@ Alongside design, I also work with **Python** and explore **data science** and *
 ## 🌱 Current Explorations
 
 - **Creative AI**: Merging artistic expression with machine learning
-- **Data Science Projects**: Exploring datasets and building useful tools
 - **User Experience**: Designing clean, accessible digital experiences
 - **Portfolio Development**: Merging design and tech into real-world projects
+- **React**: Learning front-end web development
 
 ---
 
